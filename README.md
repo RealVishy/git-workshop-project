@@ -1,4 +1,4 @@
-# ProgSoc Git Workshop Demo
+# UNPogSoc Git Workshop Demo
 
 This is a demo project for the ProgSoc Git Workshop.
 
