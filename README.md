@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # PogSoc Git Workshop Demo
+=======
+# PogSoc Git Workshop Demo
+>>>>>>> origin/main
 
 This is a demo project for the ProgSoc Git Workshop.
 
